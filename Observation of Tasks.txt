@@ -1,0 +1,46 @@
+***********************
+TEAM MEMBERS - GROUP 6
+***********************
+
+Cathy Cristeen Manchala - 1002078459
+Marudi Siva Reddy - 1001979029 
+Sai Dhanoosh Marri - 1002088723
+
+*****************************************
+WEKA - Data Visualization - PART 3
+*****************************************
+
+              Weka, a popular open-source data mining and machine learning software, offers graph visualization capabilities to enhance data exploration and analysis. With Weka's graph visualization, users can visualize complex relationships, patterns, and structures present in their datasets. The tool provides various graph types, including scatter plots, line charts, and histograms, allowing users to gain valuable insights from their data at a glance. Weka's interactive and user-friendly interface enables dynamic exploration and customization of visualizations, facilitating a deeper understanding of data characteristics. Whether used by researchers, data analysts, or students, Weka's graph visualization empowers users to make more informed decisions and draw meaningful conclusions from their data.
+
+
+**************
+Observation
+**************
+Task 3a) - Data visualization of all the attributes provided in the dataset.
+
+
+Task 3b) - 
+--->The amount of time that employees spend working for a company is inversely correlated with the frequency of workplace accidents.
+--->According to this observation, there is a correlation between employee tenure and a decreased risk of workplace accidents. 
+--->In other words, employees with longer tenure appear to have a reduced probability of being engaged in workplace accidents than those with shorter tenure.
+
+Task 3c) -
+---> Employees who have received promotions in the last five years tend to have a low level of job satisfaction. 
+--->This indicates that there is a connection between the number of promotions given during this period and the employees' dissatisfaction with their jobs.
+
+Task 3d) -
+---> The job satisfaction of employees shows a positive correlation with their latest evaluation scores. 
+---> As both attributes increase, the connection becomes stronger. This suggests that employees' job satisfaction levels tend to rise as their evaluation scores improve. 
+---> In other words, those with higher evaluation scores are more likely to report greater job satisfaction compared to those with lower evaluation scores.
+
+Task 3e) - 
+---> There is a positive correlation between the number of projects employees work on and their average monthly working hours. 
+--->Initially, the relationship appears to be denser, but over time, it becomes less pronounced or sparse.
+
+--->This finding suggests that employees who are engaged in more projects tend to work longer hours on average than those with fewer projects. 
+--->Alternatively, it could indicate that as the number of projects assigned to individuals increases, so does their average monthly working hours.
+
+Task 3f) - 
+--->There is very little noticeable difference in the frequency of promotions over the last five years among employees in the low, medium, and high wage categories.
+--->This indicates that individuals across all income brackets have a similar likelihood of receiving promotions. 
+--->In other words, employees with low wages are just as likely to have been promoted in the past five years as those with medium or high salaries.
